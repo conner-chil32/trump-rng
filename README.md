@@ -8,4 +8,6 @@ We only use the best seeds to generate our numbers. Which are the best numbers t
 
 Believe me. <br>
 
-## This package is satire, the views expressed and jokes made are just dark humor poking fun. Please dont hate.
+## (NO SATIRE) What this package actually does
+
+This package randomly picks from a list of trump's recently released "reciprocal" tariffs and outputs the result as a number.<br>
